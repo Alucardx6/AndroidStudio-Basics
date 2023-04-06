@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".VariablesActivity">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <TextView
+            android:id="@+id/loops_desc"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/loop_desc"
+            android:gravity="start"
+            android:textAlignment="gravity"
+            android:padding="10dp" />
+
+        <TextView
+            android:id="@+id/while_text"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/loops_desc"
+            android:text="@string/while_loop"
+            android:padding="10dp"
+            android:textStyle="bold"
+            android:textSize="20sp"/>
+
+        <TextView
+            android:id="@+id/while_desc"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/while_desc"
+            android:gravity="start"
+            android:textAlignment="gravity"
+            android:padding="10dp"
+            android:layout_below="@id/while_text"/>
+
+        <TextView
+            android:id="@+id/while_syntax"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/while_desc"
+            android:text="@string/syntax"
+            android:padding="10dp"
+            android:textStyle="bold"
+            android:textSize="20sp"/>
+
+        <TextView
+            android:background="#15202b"
+            android:id="@+id/while_code"
+            android:textColor="@color/white"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/while_syntax"
+            android:text="@string/while_code"
+            android:paddingLeft="20dp" />
+
+        <TextView
+            android:id="@+id/while_example"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/while_code"
+            android:text="@string/example"
+            android:padding="10dp"
+            android:textStyle="bold"
+            android:textSize="20sp"/>
+
+        <TextView
+            android:background="#15202b"
+            android:textColor="@color/white"
+            android:id="@+id/while_code2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/while_example"
+            android:text="@string/while_example"
+            android:paddingLeft="20dp" />
+
+        <TextView
+            android:id="@+id/do_while_text"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/while_code2"
+            android:text="@string/the_do_while_loop"
+            android:padding="10dp"
+            android:textStyle="bold"
+            android:textSize="20sp"/>
+
+        <TextView
+            android:id="@+id/do_while_desc"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/do_while_text"
+            android:text="@string/do_while_desc"
+            android:gravity="start"
+            android:textAlignment="gravity"
+            android:padding="10dp" />
+
+        <TextView
+            android:id="@+id/do_while_syntax"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/do_while_desc"
+            android:text="@string/syntax"
+            android:padding="10dp"
+            android:textStyle="bold"
+            android:textSize="20sp"/>
+
+        <TextView
+            android:background="#15202b"
+            android:textColor="@color/white"
+            android:id="@+id/do_while_code"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/do_while_syntax"
+            android:text="@string/do_while_code"
+            android:paddingLeft="20dp" />
+
+        <TextView
+            android:id="@+id/do_while_example"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/do_while_code"
+            android:text="@string/example"
+            android:padding="10dp"
+            android:textStyle="bold"
+            android:textSize="20sp"/>
+
+        <TextView
+            android:background="#15202b"
+            android:textColor="@color/white"
+            android:id="@+id/do_while_code2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/do_while_example"
+            android:text="@string/do_while_example"
+            android:paddingLeft="20dp" />
+
+        <TextView
+            android:id="@+id/for_text"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/do_while_code2"
+            android:text="@string/for_loop"
+            android:padding="10dp"
+            android:textStyle="bold"
+            android:textSize="20sp"/>
+
+        <TextView
+            android:id="@+id/for_desc"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/for_text"
+            android:text="@string/for_desc"
+            android:gravity="start"
+            android:textAlignment="gravity"
+            android:padding="10dp" />
+
+        <TextView
+            android:id="@+id/for_syntax"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/for_desc"
+            android:text="@string/syntax"
+            android:padding="10dp"
+            android:textStyle="bold"
+            android:textSize="20sp"/>
+
+        <TextView
+            android:background="#15202b"
+            android:textColor="@color/white"
+            android:id="@+id/for_code"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/for_syntax"
+            android:text="@string/for_code"
+            android:paddingLeft="20dp" />
+
+        <TextView
+            android:id="@+id/for_example"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/for_code"
+            android:text="@string/example"
+            android:padding="10dp"
+            android:textStyle="bold"
+            android:textSize="20sp"/>
+
+        <TextView
+            android:background="#15202b"
+            android:textColor="@color/white"
+            android:id="@+id/for_code2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/for_example"
+            android:text="@string/for_example"
+            android:paddingStart="20dp" />
+
+        <TextView
+            android:id="@+id/foreach_text"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/for_code2"
+            android:text="@string/for_each_loop"
+            android:padding="10dp"
+            android:textStyle="bold"
+            android:textSize="20sp"/>
+
+        <TextView
+            android:id="@+id/foreach_desc"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/foreach_text"
+            android:text="@string/foreach_desc"
+            android:gravity="start"
+            android:textAlignment="gravity"
+            android:padding="10dp" />
+
+        <TextView
+            android:id="@+id/foreach_syntax"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/foreach_desc"
+            android:text="@string/syntax"
+            android:padding="10dp"
+            android:textStyle="bold"
+            android:textSize="20sp"/>
+
+        <TextView
+            android:background="#15202b"
+            android:textColor="@color/white"
+            android:id="@+id/foreach_code"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/foreach_syntax"
+            android:text="@string/foreach_code"
+            android:paddingLeft="20dp" />
+
+        <TextView
+            android:id="@+id/foreach_example"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/foreach_code"
+            android:text="@string/example"
+            android:padding="10dp"
+            android:textStyle="bold"
+            android:textSize="20sp"/>
+
+        <TextView
+            android:background="#15202b"
+            android:textColor="@color/white"
+            android:id="@+id/foreach_code2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/foreach_example"
+            android:text="@string/foreach_example"
+            android:paddingStart="20dp" />
+
+    </RelativeLayout>
+</ScrollView>

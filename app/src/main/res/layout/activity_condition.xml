@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ConditionActivity">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <TextView
+            android:id="@+id/if_text"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textStyle="bold"
+            android:textSize="20sp"
+            android:text="@string/the_if_statement"
+            android:layout_gravity="start"
+            android:padding="10dp"/>
+        <TextView
+            android:id="@+id/if_text2"
+            android:layout_below="@+id/if_text"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/if_desc"
+            android:layout_gravity="start"
+            android:padding="10dp"/>
+
+        <TextView
+            android:id="@+id/if_syntax"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/if_text2"
+            android:text="@string/syntax"
+            android:padding="10dp"
+            android:textStyle="bold"
+            android:textSize="20sp"/>
+
+        <TextView
+            android:background="#15202b"
+            android:id="@+id/if_code"
+            android:textColor="@color/white"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/if_syntax"
+            android:text="@string/if_code"
+            android:paddingLeft="20dp" />
+
+        <TextView
+            android:id="@+id/if_example"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/if_code"
+            android:text="@string/example"
+            android:padding="10dp"
+            android:textStyle="bold"
+            android:textSize="20sp"/>
+
+        <TextView
+            android:background="#15202b"
+            android:textColor="@color/white"
+            android:id="@+id/if_code2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/if_example"
+            android:text="@string/if_example"
+            android:paddingLeft="20dp" />
+
+        <TextView
+            android:id="@+id/else_text"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/if_code2"
+            android:textStyle="bold"
+            android:textSize="20sp"
+            android:text="@string/the_else_statement"
+            android:layout_gravity="start"
+            android:padding="10dp"/>
+
+        <TextView
+            android:id="@+id/else_text2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/else_text"
+            android:text="@string/else_desc"
+            android:layout_gravity="start"
+            android:padding="10dp"/>
+
+        <TextView
+            android:id="@+id/else_syntax"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/else_text2"
+            android:text="@string/syntax"
+            android:padding="10dp"
+            android:textStyle="bold"
+            android:textSize="20sp"/>
+
+        <TextView
+            android:background="#15202b"
+            android:textColor="@color/white"
+            android:id="@+id/else_code"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/else_syntax"
+            android:text="@string/else_code"
+            android:paddingLeft="20dp" />
+
+        <TextView
+            android:id="@+id/else_example"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/else_code"
+            android:text="@string/example"
+            android:padding="10dp"
+            android:textStyle="bold"
+            android:textSize="20sp"/>
+
+        <TextView
+            android:background="#15202b"
+            android:textColor="@color/white"
+            android:id="@+id/else_code2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/else_example"
+            android:text="@string/else_example"
+            android:paddingLeft="20dp" />
+
+        <TextView
+            android:id="@+id/switch_text"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/else_code2"
+            android:textStyle="bold"
+            android:textSize="20sp"
+            android:text="@string/switch_statements"
+            android:layout_gravity="start"
+            android:padding="10dp"/>
+
+        <TextView
+            android:id="@+id/switch_text2"
+            android:layout_below="@+id/switch_text"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/switch_desc"
+            android:layout_gravity="start"
+            android:padding="10dp"/>
+
+        <TextView
+            android:id="@+id/switch_syntax"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/switch_text2"
+            android:text="@string/syntax"
+            android:padding="10dp"
+            android:textStyle="bold"
+            android:textSize="20sp"/>
+
+        <TextView
+            android:background="#15202b"
+            android:id="@+id/switch_code"
+            android:textColor="@color/white"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/switch_syntax"
+            android:text="@string/switch_code"
+            android:paddingLeft="20dp" />
+
+        <TextView
+            android:id="@+id/switch_example"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/switch_code"
+            android:text="@string/example"
+            android:padding="10dp"
+            android:textStyle="bold"
+            android:textSize="20sp"/>
+
+        <TextView
+            android:background="#15202b"
+            android:textColor="@color/white"
+            android:id="@+id/switch_code2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/switch_example"
+            android:text="@string/switch_example"
+            android:paddingLeft="20dp" />
+    </RelativeLayout>
+
+</ScrollView>
