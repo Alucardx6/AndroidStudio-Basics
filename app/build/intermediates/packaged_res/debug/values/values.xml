@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="dark_yellow">#BA8A0D</color>
+    <color name="ic_launcher_background">#0B0A10</color>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="yellow">#F7BE29</color>
+    <string name="app_name">University Project</string>
+    <string name="contact_email">Contact Email</string>
+    <string name="contact_name">Contact Name</string>
+    <string name="developed_by_sepehr_at_abyx_ir">Developed By Sepehr / Design by Mehrdata</string>
+    <string name="do_while_code">do {\n // code block to be executed\n }\n while (condition);</string>
+    <string name="do_while_desc">The do/while loop is a variant of the while loop. This loop will execute the code block once, before checking if the condition is true, then it will repeat the loop as long as the condition is true.</string>
+    <string name="do_while_example"><![CDATA[int i = 0;\n do {\n System.out.println(i);\n i++;\n }\n while (i < 5);]]></string>
+    <string name="else_code">if (condition) {\n // block of code to be executed if the condition is true\n } else {\n // block of code to be executed if the condition is false\n }</string>
+    <string name="else_desc">Use the else statement to specify a block of code to be executed if the condition is false.</string>
+    <string name="else_example"><![CDATA[int time = 20; if (time < 18) {\n System.out.println(\'Good day.\');\n } else {\n System.out.println(\'Good evening.\');\n }\n // Outputs \'Good evening.\']]></string>
+    <string name="example">Example:</string>
+    <string name="for_code">for (statement 1; statement 2; statement 3) {\n // code block to be executed\n }</string>
+    <string name="for_desc">When you know exactly how many times you want to loop through a block of code, use the for loop instead of a while loop:</string>
+    <string name="for_each_loop">For Each Loop:</string>
+    <string name="for_example"><![CDATA[for (int i = 0; i < 5; i++) {\n System.out.println(i);\n }]]></string>
+    <string name="for_loop">For Loop:</string>
+    <string name="foreach_code">for (type variableName : arrayName) {\n // code block to be executed\n }</string>
+    <string name="foreach_desc">There is also a \'for-each\' loop, which is used exclusively to loop through elements in an array:</string>
+    <string name="foreach_example">String[] cars = {\'Volvo\', \'BMW\', \'Ford\', \'Mazda\'};\n for (String i : cars) {\n System.out.println(i);\n }</string>
+    <string name="if_code">if (condition) {\n // block of code to be executed if the condition is true\n }</string>
+    <string name="if_desc">Use the if statement to specify a block of Java code to be executed if a condition is true.</string>
+    <string name="if_example"><![CDATA[if (20 > 18) {\n System.out.println(\'20 is greater than 18\');\n }]]></string>
+    <string name="image">image</string>
+    <string name="listview_desc">An adapter actually bridges between UI components and the data source that fill data into UI Component. Adapter holds the data and send the data to adapter view, the view can takes the data from adapter view and shows the data on different views.</string>
+    <string name="logo">logo</string>
+    <string name="loop_desc">Loops can execute a block of code as long as a specified condition is reached.\nLoops are handy because they save time, reduce errors, and they make code more readable.</string>
+    <string name="other_variable_code">int myNum = 5;\n float myFloatNum = 5.99f;\n char myLetter = \'D\';\n boolean myBool = true;\n String myText = \'Hello\';</string>
+    <string name="other_variable_text">A demonstration of how to declare variables of other types:</string>
+    <string name="rec_desc">This is a component that displays data in different ways and is made with contemporary techniques to make scrolling not only as smooth as possible but also to make development easier.</string>
+    <string name="switch_code">switch(expression) {\n case x:\n // code block\n break;\n case y:\n // code block\n break;\n default:\n // code block\n }</string>
+    <string name="switch_desc">Instead of writing many if..else statements, you can use the switch statement.\nThe switch statement selects one of many code blocks to be executed:</string>
+    <string name="switch_example">int day = 4; switch (day) {\n case 1:\n System.out.println(\'Monday\');\n break;\n case 2:\n System.out.println(\'Tuesday\');\n break;\n case 3:\n System.out.println(\'Wednesday\');\n break;\n case 4:\n System.out.println(\'Thursday\');\n break;\n case 5:\n System.out.println(\'Friday\');\n break;\n case 6:\n System.out.println(\'Saturday\');\n break;\n case 7:\n System.out.println(\'Sunday\');\n break;\n }\n // Outputs \'Thursday\' (day 4)</string>
+    <string name="switch_statements">Switch Statements:</string>
+    <string name="syntax">Syntax:</string>
+    <string name="the_do_while_loop">The Do/While Loop:</string>
+    <string name="the_else_statement">The else Statement:</string>
+    <string name="the_if_statement">The if Statement:</string>
+    <string name="variable_code">type variableName = value;</string>
+    <string name="variable_code_number">int myNum = 15;\n System.out.println(myNum);</string>
+    <string name="variable_example">String name = \'John\';\n System.out.println(name);</string>
+    <string name="variable_number">Create a variable called myNum of type int and assign it the value 15:</string>
+    <string name="variable_string">Create a variable called name of type String and assign it the value \'John\':</string>
+    <string name="variables_desc">Variables are containers for storing data values. In Java, there are different types of variables, for example:\n\n 1. String - stores text, such as \'Hello\'.\n 2. int - stores integers (whole numbers).\n 3. float - stores floating point numbers.\n 4. char - stores single characters, such as \'a\' or \'B\'.\n 5. boolean - stores values with two states: true or false</string>
+    <string name="while_code">while (condition) {\n // code block to be executed\n }</string>
+    <string name="while_desc">The while loop loops through a block of code as long as a specified condition is true:</string>
+    <string name="while_example"><![CDATA[int i = 0;\n while (i < 5) {\n System.out.println(i);\n i++;\n }]]></string>
+    <string name="while_loop">While Loop:</string>
+    <style name="Theme.UniProject" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        
+        <item name="colorPrimary">@color/yellow</item>
+        <item name="colorPrimaryVariant">@color/dark_yellow</item>
+        <item name="colorOnPrimary">@color/white</item>
+        
+        <item name="colorSecondary">@color/yellow</item>
+        <item name="colorSecondaryVariant">@color/dark_yellow</item>
+        <item name="colorOnSecondary">@color/black</item>
+        
+        <item name="android:statusBarColor">?attr/colorPrimaryVariant</item>
+        
+    </style>
+</resources>

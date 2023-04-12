@@ -1,0 +1,163 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.uniproject"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+8-->C:\Users\mehrd\Documents\GitHub\AndroidStudio-Basics\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="33" />
+9-->C:\Users\mehrd\Documents\GitHub\AndroidStudio-Basics\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->C:\Users\mehrd\Documents\GitHub\AndroidStudio-Basics\app\src\main\AndroidManifest.xml:5:5-67
+11-->C:\Users\mehrd\Documents\GitHub\AndroidStudio-Basics\app\src\main\AndroidManifest.xml:5:22-64
+12
+13    <permission
+13-->[androidx.core:core:1.9.0] C:\Users\mehrd\.gradle\caches\transforms-3\c6770eda00af6c105866b6db09ea3053\transformed\core-1.9.0\AndroidManifest.xml:22:5-24:47
+14        android:name="com.example.uniproject.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+14-->[androidx.core:core:1.9.0] C:\Users\mehrd\.gradle\caches\transforms-3\c6770eda00af6c105866b6db09ea3053\transformed\core-1.9.0\AndroidManifest.xml:23:9-81
+15        android:protectionLevel="signature" />
+15-->[androidx.core:core:1.9.0] C:\Users\mehrd\.gradle\caches\transforms-3\c6770eda00af6c105866b6db09ea3053\transformed\core-1.9.0\AndroidManifest.xml:24:9-44
+16
+17    <uses-permission android:name="com.example.uniproject.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
+17-->[androidx.core:core:1.9.0] C:\Users\mehrd\.gradle\caches\transforms-3\c6770eda00af6c105866b6db09ea3053\transformed\core-1.9.0\AndroidManifest.xml:26:5-97
+17-->[androidx.core:core:1.9.0] C:\Users\mehrd\.gradle\caches\transforms-3\c6770eda00af6c105866b6db09ea3053\transformed\core-1.9.0\AndroidManifest.xml:26:22-94
+18
+19    <application
+19-->C:\Users\mehrd\Documents\GitHub\AndroidStudio-Basics\app\src\main\AndroidManifest.xml:7:5-65:19
+20        android:allowBackup="true"
+20-->C:\Users\mehrd\Documents\GitHub\AndroidStudio-Basics\app\src\main\AndroidManifest.xml:8:9-35
+21        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+21-->[androidx.core:core:1.9.0] C:\Users\mehrd\.gradle\caches\transforms-3\c6770eda00af6c105866b6db09ea3053\transformed\core-1.9.0\AndroidManifest.xml:28:18-86
+22        android:dataExtractionRules="@xml/data_extraction_rules"
+22-->C:\Users\mehrd\Documents\GitHub\AndroidStudio-Basics\app\src\main\AndroidManifest.xml:9:9-65
+23        android:debuggable="true"
+24        android:fullBackupContent="@xml/backup_rules"
+24-->C:\Users\mehrd\Documents\GitHub\AndroidStudio-Basics\app\src\main\AndroidManifest.xml:10:9-54
+25        android:icon="@mipmap/ic_launcher"
+25-->C:\Users\mehrd\Documents\GitHub\AndroidStudio-Basics\app\src\main\AndroidManifest.xml:11:9-43
+26        android:label="@string/app_name"
+26-->C:\Users\mehrd\Documents\GitHub\AndroidStudio-Basics\app\src\main\AndroidManifest.xml:12:9-41
+27        android:roundIcon="@mipmap/ic_launcher_round"
+27-->C:\Users\mehrd\Documents\GitHub\AndroidStudio-Basics\app\src\main\AndroidManifest.xml:13:9-54
+28        android:supportsRtl="true"
+28-->C:\Users\mehrd\Documents\GitHub\AndroidStudio-Basics\app\src\main\AndroidManifest.xml:14:9-35
+29        android:testOnly="true"
+30        android:theme="@style/Theme.UniProject" >
+30-->C:\Users\mehrd\Documents\GitHub\AndroidStudio-Basics\app\src\main\AndroidManifest.xml:15:9-48
+31        <activity
+31-->C:\Users\mehrd\Documents\GitHub\AndroidStudio-Basics\app\src\main\AndroidManifest.xml:17:9-23:20
+32            android:name="com.example.uniproject.LoopsActivity"
+32-->C:\Users\mehrd\Documents\GitHub\AndroidStudio-Basics\app\src\main\AndroidManifest.xml:18:13-42
+33            android:exported="false" >
+33-->C:\Users\mehrd\Documents\GitHub\AndroidStudio-Basics\app\src\main\AndroidManifest.xml:19:13-37
+34            <meta-data
+34-->C:\Users\mehrd\Documents\GitHub\AndroidStudio-Basics\app\src\main\AndroidManifest.xml:20:13-22:36
+35                android:name="android.app.lib_name"
+35-->C:\Users\mehrd\Documents\GitHub\AndroidStudio-Basics\app\src\main\AndroidManifest.xml:21:17-52
+36                android:value="" />
+36-->C:\Users\mehrd\Documents\GitHub\AndroidStudio-Basics\app\src\main\AndroidManifest.xml:22:17-33
+37        </activity>
+38        <activity
+38-->C:\Users\mehrd\Documents\GitHub\AndroidStudio-Basics\app\src\main\AndroidManifest.xml:24:9-30:20
+39            android:name="com.example.uniproject.VariablesActivity"
+39-->C:\Users\mehrd\Documents\GitHub\AndroidStudio-Basics\app\src\main\AndroidManifest.xml:25:13-46
+40            android:exported="false" >
+40-->C:\Users\mehrd\Documents\GitHub\AndroidStudio-Basics\app\src\main\AndroidManifest.xml:26:13-37
+41            <meta-data
+41-->C:\Users\mehrd\Documents\GitHub\AndroidStudio-Basics\app\src\main\AndroidManifest.xml:20:13-22:36
+42                android:name="android.app.lib_name"
+42-->C:\Users\mehrd\Documents\GitHub\AndroidStudio-Basics\app\src\main\AndroidManifest.xml:21:17-52
+43                android:value="" />
+43-->C:\Users\mehrd\Documents\GitHub\AndroidStudio-Basics\app\src\main\AndroidManifest.xml:22:17-33
+44        </activity>
+45        <activity
+45-->C:\Users\mehrd\Documents\GitHub\AndroidStudio-Basics\app\src\main\AndroidManifest.xml:31:9-37:20
+46            android:name="com.example.uniproject.ConditionActivity"
+46-->C:\Users\mehrd\Documents\GitHub\AndroidStudio-Basics\app\src\main\AndroidManifest.xml:32:13-46
+47            android:exported="false" >
+47-->C:\Users\mehrd\Documents\GitHub\AndroidStudio-Basics\app\src\main\AndroidManifest.xml:33:13-37
+48            <meta-data
+48-->C:\Users\mehrd\Documents\GitHub\AndroidStudio-Basics\app\src\main\AndroidManifest.xml:20:13-22:36
+49                android:name="android.app.lib_name"
+49-->C:\Users\mehrd\Documents\GitHub\AndroidStudio-Basics\app\src\main\AndroidManifest.xml:21:17-52
+50                android:value="" />
+50-->C:\Users\mehrd\Documents\GitHub\AndroidStudio-Basics\app\src\main\AndroidManifest.xml:22:17-33
+51        </activity>
+52        <activity
+52-->C:\Users\mehrd\Documents\GitHub\AndroidStudio-Basics\app\src\main\AndroidManifest.xml:38:9-50:20
+53            android:name="com.example.uniproject.MainActivity"
+53-->C:\Users\mehrd\Documents\GitHub\AndroidStudio-Basics\app\src\main\AndroidManifest.xml:39:13-41
+54            android:exported="true" >
+54-->C:\Users\mehrd\Documents\GitHub\AndroidStudio-Basics\app\src\main\AndroidManifest.xml:40:13-36
+55            <intent-filter>
+55-->C:\Users\mehrd\Documents\GitHub\AndroidStudio-Basics\app\src\main\AndroidManifest.xml:41:13-45:29
+56                <action android:name="android.intent.action.MAIN" />
+56-->C:\Users\mehrd\Documents\GitHub\AndroidStudio-Basics\app\src\main\AndroidManifest.xml:42:17-69
+56-->C:\Users\mehrd\Documents\GitHub\AndroidStudio-Basics\app\src\main\AndroidManifest.xml:42:25-66
+57
+58                <category android:name="android.intent.category.LAUNCHER" />
+58-->C:\Users\mehrd\Documents\GitHub\AndroidStudio-Basics\app\src\main\AndroidManifest.xml:44:17-77
+58-->C:\Users\mehrd\Documents\GitHub\AndroidStudio-Basics\app\src\main\AndroidManifest.xml:44:27-74
+59            </intent-filter>
+60
+61            <meta-data
+61-->C:\Users\mehrd\Documents\GitHub\AndroidStudio-Basics\app\src\main\AndroidManifest.xml:20:13-22:36
+62                android:name="android.app.lib_name"
+62-->C:\Users\mehrd\Documents\GitHub\AndroidStudio-Basics\app\src\main\AndroidManifest.xml:21:17-52
+63                android:value="" />
+63-->C:\Users\mehrd\Documents\GitHub\AndroidStudio-Basics\app\src\main\AndroidManifest.xml:22:17-33
+64        </activity>
+65        <activity
+65-->C:\Users\mehrd\Documents\GitHub\AndroidStudio-Basics\app\src\main\AndroidManifest.xml:51:9-57:20
+66            android:name="com.example.uniproject.RecyclerViewActivity"
+66-->C:\Users\mehrd\Documents\GitHub\AndroidStudio-Basics\app\src\main\AndroidManifest.xml:52:13-49
+67            android:exported="false" >
+67-->C:\Users\mehrd\Documents\GitHub\AndroidStudio-Basics\app\src\main\AndroidManifest.xml:53:13-37
+68            <meta-data
+68-->C:\Users\mehrd\Documents\GitHub\AndroidStudio-Basics\app\src\main\AndroidManifest.xml:20:13-22:36
+69                android:name="android.app.lib_name"
+69-->C:\Users\mehrd\Documents\GitHub\AndroidStudio-Basics\app\src\main\AndroidManifest.xml:21:17-52
+70                android:value="" />
+70-->C:\Users\mehrd\Documents\GitHub\AndroidStudio-Basics\app\src\main\AndroidManifest.xml:22:17-33
+71        </activity>
+72        <activity
+72-->C:\Users\mehrd\Documents\GitHub\AndroidStudio-Basics\app\src\main\AndroidManifest.xml:58:9-64:20
+73            android:name="com.example.uniproject.ListViewActivity"
+73-->C:\Users\mehrd\Documents\GitHub\AndroidStudio-Basics\app\src\main\AndroidManifest.xml:59:13-45
+74            android:exported="false" >
+74-->C:\Users\mehrd\Documents\GitHub\AndroidStudio-Basics\app\src\main\AndroidManifest.xml:60:13-37
+75            <meta-data
+75-->C:\Users\mehrd\Documents\GitHub\AndroidStudio-Basics\app\src\main\AndroidManifest.xml:20:13-22:36
+76                android:name="android.app.lib_name"
+76-->C:\Users\mehrd\Documents\GitHub\AndroidStudio-Basics\app\src\main\AndroidManifest.xml:21:17-52
+77                android:value="" />
+77-->C:\Users\mehrd\Documents\GitHub\AndroidStudio-Basics\app\src\main\AndroidManifest.xml:22:17-33
+78        </activity>
+79
+80        <provider
+80-->[androidx.emoji2:emoji2:1.2.0] C:\Users\mehrd\.gradle\caches\transforms-3\ec6e2ba61c9a42dd8e0aa44ee71f9dfb\transformed\emoji2-1.2.0\AndroidManifest.xml:24:9-32:20
+81            android:name="androidx.startup.InitializationProvider"
+81-->[androidx.emoji2:emoji2:1.2.0] C:\Users\mehrd\.gradle\caches\transforms-3\ec6e2ba61c9a42dd8e0aa44ee71f9dfb\transformed\emoji2-1.2.0\AndroidManifest.xml:25:13-67
+82            android:authorities="com.example.uniproject.androidx-startup"
+82-->[androidx.emoji2:emoji2:1.2.0] C:\Users\mehrd\.gradle\caches\transforms-3\ec6e2ba61c9a42dd8e0aa44ee71f9dfb\transformed\emoji2-1.2.0\AndroidManifest.xml:26:13-68
+83            android:exported="false" >
+83-->[androidx.emoji2:emoji2:1.2.0] C:\Users\mehrd\.gradle\caches\transforms-3\ec6e2ba61c9a42dd8e0aa44ee71f9dfb\transformed\emoji2-1.2.0\AndroidManifest.xml:27:13-37
+84            <meta-data
+84-->[androidx.emoji2:emoji2:1.2.0] C:\Users\mehrd\.gradle\caches\transforms-3\ec6e2ba61c9a42dd8e0aa44ee71f9dfb\transformed\emoji2-1.2.0\AndroidManifest.xml:29:13-31:52
+85                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+85-->[androidx.emoji2:emoji2:1.2.0] C:\Users\mehrd\.gradle\caches\transforms-3\ec6e2ba61c9a42dd8e0aa44ee71f9dfb\transformed\emoji2-1.2.0\AndroidManifest.xml:30:17-75
+86                android:value="androidx.startup" />
+86-->[androidx.emoji2:emoji2:1.2.0] C:\Users\mehrd\.gradle\caches\transforms-3\ec6e2ba61c9a42dd8e0aa44ee71f9dfb\transformed\emoji2-1.2.0\AndroidManifest.xml:31:17-49
+87            <meta-data
+87-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\mehrd\.gradle\caches\transforms-3\371d4428813d11175307b9e72a350208\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:31:13-33:52
+88                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+88-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\mehrd\.gradle\caches\transforms-3\371d4428813d11175307b9e72a350208\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:32:17-78
+89                android:value="androidx.startup" />
+89-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\mehrd\.gradle\caches\transforms-3\371d4428813d11175307b9e72a350208\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:33:17-49
+90        </provider>
+91    </application>
+92
+93</manifest>
