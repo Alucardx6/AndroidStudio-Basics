@@ -41,8 +41,8 @@ public class MainActivity extends AppCompatActivity {
 
         btnAbout.setOnClickListener( v -> {
             AlertDialog.Builder builder = new AlertDialog.Builder(this);
-            builder.setTitle(R.string.app_name);
-            builder.setMessage("Designed and Developed with Love by Sepehr at ABYX.ir\n" +
+            builder.setTitle("Android Studio Basics");
+            builder.setMessage("Designed and Developed with Love by Mehrdata and Sepehr at ABYX.ir\n" +
                     "Check our website for more awesome applications:");
             builder.setNegativeButton("Dismiss", (dialogInterface, i) -> {
             });
