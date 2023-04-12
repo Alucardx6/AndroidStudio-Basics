@@ -15,6 +15,7 @@ drawable button_bg
 drawable ic_launcher_background
 drawable ic_launcher_foreground
 drawable logo_w
+font quicksand
 font quicksand_bold
 font quicksand_light
 font quicksand_reg

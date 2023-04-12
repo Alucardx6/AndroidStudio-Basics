@@ -2808,9 +2808,10 @@ int drawable notify_panel_notification_icon_bg 0x7f0700dd
 int drawable test_level_drawable 0x7f0700de
 int drawable tooltip_frame_dark 0x7f0700df
 int drawable tooltip_frame_light 0x7f0700e0
-int font quicksand_bold 0x7f080000
-int font quicksand_light 0x7f080001
-int font quicksand_reg 0x7f080002
+int font quicksand 0x7f080000
+int font quicksand_bold 0x7f080001
+int font quicksand_light 0x7f080002
+int font quicksand_reg 0x7f080003
 int id ALT 0x7f090000
 int id BOTTOM_END 0x7f090001
 int id BOTTOM_START 0x7f090002
