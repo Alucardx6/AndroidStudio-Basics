@@ -1,0 +1,178 @@
+[
+    {
+        "merged": "C:\\Users\\mehrd\\.gradle\\daemon\\7.4\\com.example.uniproject.app-merged_res-30:\\font_quicksand_light.ttf.flat",
+        "source": "C:\\Users\\mehrd\\.gradle\\daemon\\7.4\\com.example.uniproject.app-main-32:\\font\\quicksand_light.ttf"
+    },
+    {
+        "merged": "C:\\Users\\mehrd\\.gradle\\daemon\\7.4\\com.example.uniproject.app-merged_res-30:\\drawable-xxhdpi_android.png.flat",
+        "source": "C:\\Users\\mehrd\\.gradle\\daemon\\7.4\\com.example.uniproject.app-pngs-25:\\drawable-xxhdpi\\android.png"
+    },
+    {
+        "merged": "C:\\Users\\mehrd\\.gradle\\daemon\\7.4\\com.example.uniproject.app-merged_res-30:\\layout_activity_condition.xml.flat",
+        "source": "C:\\Users\\mehrd\\.gradle\\daemon\\7.4\\com.example.uniproject.app-main-32:\\layout\\activity_condition.xml"
+    },
+    {
+        "merged": "C:\\Users\\mehrd\\.gradle\\daemon\\7.4\\com.example.uniproject.app-merged_res-30:\\font_quicksand_bold.ttf.flat",
+        "source": "C:\\Users\\mehrd\\.gradle\\daemon\\7.4\\com.example.uniproject.app-main-32:\\font\\quicksand_bold.ttf"
+    },
+    {
+        "merged": "C:\\Users\\mehrd\\.gradle\\daemon\\7.4\\com.example.uniproject.app-merged_res-30:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\mehrd\\.gradle\\daemon\\7.4\\com.example.uniproject.app-main-32:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\mehrd\\.gradle\\daemon\\7.4\\com.example.uniproject.app-merged_res-30:\\layout_contacts_list_item.xml.flat",
+        "source": "C:\\Users\\mehrd\\.gradle\\daemon\\7.4\\com.example.uniproject.app-main-32:\\layout\\contacts_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\mehrd\\.gradle\\daemon\\7.4\\com.example.uniproject.app-merged_res-30:\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\mehrd\\.gradle\\daemon\\7.4\\com.example.uniproject.app-main-32:\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\mehrd\\.gradle\\daemon\\7.4\\com.example.uniproject.app-merged_res-30:\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\mehrd\\.gradle\\daemon\\7.4\\com.example.uniproject.app-main-32:\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\mehrd\\.gradle\\daemon\\7.4\\com.example.uniproject.app-merged_res-30:\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\mehrd\\.gradle\\daemon\\7.4\\com.example.uniproject.app-main-32:\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\mehrd\\.gradle\\daemon\\7.4\\com.example.uniproject.app-merged_res-30:\\drawable-xxxhdpi_android.png.flat",
+        "source": "C:\\Users\\mehrd\\.gradle\\daemon\\7.4\\com.example.uniproject.app-pngs-25:\\drawable-xxxhdpi\\android.png"
+    },
+    {
+        "merged": "C:\\Users\\mehrd\\.gradle\\daemon\\7.4\\com.example.uniproject.app-merged_res-30:\\drawable-hdpi_android.png.flat",
+        "source": "C:\\Users\\mehrd\\.gradle\\daemon\\7.4\\com.example.uniproject.app-pngs-25:\\drawable-hdpi\\android.png"
+    },
+    {
+        "merged": "C:\\Users\\mehrd\\.gradle\\daemon\\7.4\\com.example.uniproject.app-merged_res-30:\\drawable-ldpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\mehrd\\.gradle\\daemon\\7.4\\com.example.uniproject.app-pngs-25:\\drawable-ldpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\mehrd\\.gradle\\daemon\\7.4\\com.example.uniproject.app-merged_res-30:\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\mehrd\\.gradle\\daemon\\7.4\\com.example.uniproject.app-main-32:\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\mehrd\\.gradle\\daemon\\7.4\\com.example.uniproject.app-merged_res-30:\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\mehrd\\.gradle\\daemon\\7.4\\com.example.uniproject.app-main-32:\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\mehrd\\.gradle\\daemon\\7.4\\com.example.uniproject.app-merged_res-30:\\layout_activity_recycler_view.xml.flat",
+        "source": "C:\\Users\\mehrd\\.gradle\\daemon\\7.4\\com.example.uniproject.app-main-32:\\layout\\activity_recycler_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\mehrd\\.gradle\\daemon\\7.4\\com.example.uniproject.app-merged_res-30:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\mehrd\\.gradle\\daemon\\7.4\\com.example.uniproject.app-main-32:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\mehrd\\.gradle\\daemon\\7.4\\com.example.uniproject.app-merged_res-30:\\layout_activity_list_view.xml.flat",
+        "source": "C:\\Users\\mehrd\\.gradle\\daemon\\7.4\\com.example.uniproject.app-main-32:\\layout\\activity_list_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\mehrd\\.gradle\\daemon\\7.4\\com.example.uniproject.app-merged_res-30:\\drawable-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\mehrd\\.gradle\\daemon\\7.4\\com.example.uniproject.app-pngs-25:\\drawable-xxxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.example.uniproject.app-merged_res-30:/layout_contacts_list_item.xml.flat",
+        "source": "com.example.uniproject.app-main-32:/layout/contacts_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\mehrd\\.gradle\\daemon\\7.4\\com.example.uniproject.app-merged_res-30:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\mehrd\\.gradle\\daemon\\7.4\\com.example.uniproject.app-main-32:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\mehrd\\.gradle\\daemon\\7.4\\com.example.uniproject.app-merged_res-30:\\layout_activity_loops.xml.flat",
+        "source": "C:\\Users\\mehrd\\.gradle\\daemon\\7.4\\com.example.uniproject.app-main-32:\\layout\\activity_loops.xml"
+    },
+    {
+        "merged": "C:\\Users\\mehrd\\.gradle\\daemon\\7.4\\com.example.uniproject.app-merged_res-30:\\drawable-ldpi_android.png.flat",
+        "source": "C:\\Users\\mehrd\\.gradle\\daemon\\7.4\\com.example.uniproject.app-pngs-25:\\drawable-ldpi\\android.png"
+    },
+    {
+        "merged": "C:\\Users\\mehrd\\.gradle\\daemon\\7.4\\com.example.uniproject.app-merged_res-30:\\font_quicksand_reg.ttf.flat",
+        "source": "C:\\Users\\mehrd\\.gradle\\daemon\\7.4\\com.example.uniproject.app-main-32:\\font\\quicksand_reg.ttf"
+    },
+    {
+        "merged": "C:\\Users\\mehrd\\.gradle\\daemon\\7.4\\com.example.uniproject.app-merged_res-30:\\drawable-anydpi-v24_android.xml.flat",
+        "source": "C:\\Users\\mehrd\\.gradle\\daemon\\7.4\\com.example.uniproject.app-pngs-25:\\drawable-anydpi-v24\\android.xml"
+    },
+    {
+        "merged": "C:\\Users\\mehrd\\.gradle\\daemon\\7.4\\com.example.uniproject.app-merged_res-30:\\drawable-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\mehrd\\.gradle\\daemon\\7.4\\com.example.uniproject.app-pngs-25:\\drawable-xhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\mehrd\\.gradle\\daemon\\7.4\\com.example.uniproject.app-merged_res-30:\\drawable-mdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\mehrd\\.gradle\\daemon\\7.4\\com.example.uniproject.app-pngs-25:\\drawable-mdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\mehrd\\.gradle\\daemon\\7.4\\com.example.uniproject.app-merged_res-30:\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\mehrd\\.gradle\\daemon\\7.4\\com.example.uniproject.app-main-32:\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\mehrd\\.gradle\\daemon\\7.4\\com.example.uniproject.app-merged_res-30:\\drawable-v24_logo_w.xml.flat",
+        "source": "C:\\Users\\mehrd\\.gradle\\daemon\\7.4\\com.example.uniproject.app-main-32:\\drawable-v24\\logo_w.xml"
+    },
+    {
+        "merged": "C:\\Users\\mehrd\\.gradle\\daemon\\7.4\\com.example.uniproject.app-merged_res-30:\\drawable-hdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\mehrd\\.gradle\\daemon\\7.4\\com.example.uniproject.app-pngs-25:\\drawable-hdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\mehrd\\.gradle\\daemon\\7.4\\com.example.uniproject.app-merged_res-30:\\drawable-xhdpi_android.png.flat",
+        "source": "C:\\Users\\mehrd\\.gradle\\daemon\\7.4\\com.example.uniproject.app-pngs-25:\\drawable-xhdpi\\android.png"
+    },
+    {
+        "merged": "C:\\Users\\mehrd\\.gradle\\daemon\\7.4\\com.example.uniproject.app-merged_res-30:\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\mehrd\\.gradle\\daemon\\7.4\\com.example.uniproject.app-main-32:\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\mehrd\\.gradle\\daemon\\7.4\\com.example.uniproject.app-merged_res-30:\\layout_activity_listview.xml.flat",
+        "source": "C:\\Users\\mehrd\\.gradle\\daemon\\7.4\\com.example.uniproject.app-main-32:\\layout\\activity_listview.xml"
+    },
+    {
+        "merged": "C:\\Users\\mehrd\\.gradle\\daemon\\7.4\\com.example.uniproject.app-merged_res-30:\\layout_activity_variables.xml.flat",
+        "source": "C:\\Users\\mehrd\\.gradle\\daemon\\7.4\\com.example.uniproject.app-main-32:\\layout\\activity_variables.xml"
+    },
+    {
+        "merged": "C:\\Users\\mehrd\\.gradle\\daemon\\7.4\\com.example.uniproject.app-merged_res-30:\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\mehrd\\.gradle\\daemon\\7.4\\com.example.uniproject.app-main-32:\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\mehrd\\.gradle\\daemon\\7.4\\com.example.uniproject.app-merged_res-30:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\mehrd\\.gradle\\daemon\\7.4\\com.example.uniproject.app-main-32:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\mehrd\\.gradle\\daemon\\7.4\\com.example.uniproject.app-merged_res-30:\\drawable-mdpi_android.png.flat",
+        "source": "C:\\Users\\mehrd\\.gradle\\daemon\\7.4\\com.example.uniproject.app-pngs-25:\\drawable-mdpi\\android.png"
+    },
+    {
+        "merged": "C:\\Users\\mehrd\\.gradle\\daemon\\7.4\\com.example.uniproject.app-merged_res-30:\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\mehrd\\.gradle\\daemon\\7.4\\com.example.uniproject.app-pngs-25:\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\mehrd\\.gradle\\daemon\\7.4\\com.example.uniproject.app-merged_res-30:\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\mehrd\\.gradle\\daemon\\7.4\\com.example.uniproject.app-main-32:\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\mehrd\\.gradle\\daemon\\7.4\\com.example.uniproject.app-merged_res-30:\\layout_recyclerview_row.xml.flat",
+        "source": "C:\\Users\\mehrd\\.gradle\\daemon\\7.4\\com.example.uniproject.app-main-32:\\layout\\recyclerview_row.xml"
+    },
+    {
+        "merged": "C:\\Users\\mehrd\\.gradle\\daemon\\7.4\\com.example.uniproject.app-merged_res-30:\\drawable_button_bg.xml.flat",
+        "source": "C:\\Users\\mehrd\\.gradle\\daemon\\7.4\\com.example.uniproject.app-main-32:\\drawable\\button_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\mehrd\\.gradle\\daemon\\7.4\\com.example.uniproject.app-merged_res-30:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\mehrd\\.gradle\\daemon\\7.4\\com.example.uniproject.app-main-32:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\mehrd\\.gradle\\daemon\\7.4\\com.example.uniproject.app-merged_res-30:\\drawable-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\mehrd\\.gradle\\daemon\\7.4\\com.example.uniproject.app-pngs-25:\\drawable-xxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\mehrd\\.gradle\\daemon\\7.4\\com.example.uniproject.app-merged_res-30:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\mehrd\\.gradle\\daemon\\7.4\\com.example.uniproject.app-main-32:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\mehrd\\.gradle\\daemon\\7.4\\com.example.uniproject.app-merged_res-30:\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\mehrd\\.gradle\\daemon\\7.4\\com.example.uniproject.app-main-32:\\mipmap-xxxhdpi\\ic_launcher.png"
+    }
+]

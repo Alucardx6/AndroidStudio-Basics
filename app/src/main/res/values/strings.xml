@@ -45,5 +45,5 @@
     <string name="foreach_desc">There is also a \'for-each\' loop, which is used exclusively to loop through elements in an array:</string>
     <string name="foreach_code">for (type variableName : arrayName) {\n // code block to be executed\n }</string>
     <string name="foreach_example">String[] cars = {\'Volvo\', \'BMW\', \'Ford\', \'Mazda\'};\n for (String i : cars) {\n System.out.println(i);\n }</string>
-    <string name="developed_by_sepehr_at_abyx_ir">Developed By Sepehr at ABYX.ir</string>
+    <string name="developed_by_sepehr_at_abyx_ir">Developed By Sepehr / Design by Mehrdata</string>
 </resources>
